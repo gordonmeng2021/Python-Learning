@@ -1,4 +1,3 @@
-# Done by WONG, Hiu Tung SID: 20859316
 import turtle
 
 turtle.setup(800,600)    # Set the width and height be 800 x 600
