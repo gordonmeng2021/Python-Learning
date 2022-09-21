@@ -1,8 +1,3 @@
-# COMP1021 Robot Game Lab
-# Name       : Wong Hiu Tung
-# Email      : htwongbe@connect.ust.hk
-# Student ID : 20859316
-
 # The following line imports the game function library and map into
 #  this main program.
 from game_lib import *
