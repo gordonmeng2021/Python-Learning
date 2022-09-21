@@ -1,8 +1,3 @@
-# COMP1021 Lab 2 Python Sketchbook
-# Name: Wong Hiu Tung
-# Student ID:20859316
-# Email: htwongbe@connect.ust.hk
-
 import turtle       # Import the turtle module for the program
 
 turtle.width(4)
